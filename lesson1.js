@@ -125,3 +125,12 @@ height = 3;
 let lenght = 4;
 result = 2 * (width*height + width*lenght + height*lenght);
 console.log(result);
+
+// преобразование строк в число
+age = "12 65 лет 99";
+width = "1.6em 9em";
+age = parseInt(age); // читает из строчки число до первого нечислового символа
+console.log(age);
+
+width = parseFloat(width);
+console.log(width);
