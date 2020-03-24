@@ -64,3 +64,12 @@ let strArr2 = strArr.split("").reverse().join(""); // сплит массив и
 console.log(strArr2);
 let res = strArr === strArr2 ? 'Палиндром' : 'Не палиндром';
 console.log(res);
+
+
+intArr = [3, 4, 12, -34, 0];
+let sum = 0;
+// найти сумму элементов массива
+for (let elem of intArr) {
+    sum += elem;
+}
+console.log(sum);
