@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db4c1dfb-ba18-4828-bd5a-8aa961db84d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson2/js/lesson3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/js/stroki.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2/stroki.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/js/mass.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/js/mass.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/lesson2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/lesson2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -50,7 +55,8 @@
       <option name="presentableId" value="Default" />
       <updated>1584632652162</updated>
       <workItem from="1584632653768" duration="10665000" />
-      <workItem from="1584776207287" duration="8770000" />
+      <workItem from="1584776207287" duration="9101000" />
+      <workItem from="1585063666326" duration="10852000" />
     </task>
     <servers />
   </component>
@@ -58,13 +64,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1584643621755">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1584785533830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584643621755" />
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1584776206444">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584785533830" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1585063665012">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584776206444" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585063665012" />
   </component>
 </project>
